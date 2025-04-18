@@ -15,10 +15,10 @@ permalink: /
 
 | 時間割  || 月曜  | 火曜  | 水曜  | 木曜  | 金曜  | 土曜  |
 |-----|-----|-----|-----|-----|-----|-----|
-|１限|| \color{Green}O  | X  | X  | X  | X  | X  |
-|２限|| \color{Green}O  | \color{Green}O  | X  | X  | \color{Green}O  | X  |
-|３限|| \color{Green}O  | \color{Green}O  | X  | X  | \color{Green}O  | X  |
-|４限|| \color{Green}O  | \color{Green}O  | X  | X  | X  | X  |
+|１限|| <code style="color : Green">O</code>  | X  | X  | X  | X  | X  |
+|２限|| <code style="color : Green">O</code>  | <code style="color : Green">O</code>  | X  | X  | <code style="color : Green">O</code>  | X  |
+|３限|| <code style="color : Green">O</code>  | <code style="color : Green">O</code>  | X  | X  | <code style="color : Green">O</code>  | X  |
+|４限|| <code style="color : Green">O</code>  | <code style="color : Green">O</code>  | X  | X  | X  | X  |
 |５限|| X  | X  | X  | X  | X  | X  |
 |６限|| X  | X  | X  | X  | X  | X  |
 
