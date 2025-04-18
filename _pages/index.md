@@ -1,6 +1,6 @@
 ---
-title: "ここにページのタイトル"
-author: default
+title: "自己紹介"
+author: a
 permalink: /
 ---
 
