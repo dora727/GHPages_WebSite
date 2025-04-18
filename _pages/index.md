@@ -19,8 +19,8 @@ permalink: /
 |２限|| O  | O  | X  | X  | O  | X  |
 |３限|| O  | O  | X  | X  | O  | X  |
 |４限|| O  | O  | X  | X  | X  | X  |
-|５限|| X  | O  | X  | X  | X  | X  |
-|６限|| X  | O  | X  | X  | X  | X  |
+|５限|| X  | X  | X  | X  | X  | X  |
+|６限|| X  | X  | X  | X  | X  | X  |
 
 O: いる
 X: いない
